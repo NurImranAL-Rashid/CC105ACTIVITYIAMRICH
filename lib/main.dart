@@ -13,7 +13,7 @@ void main() {
             ),
             body: Center(
              child: Image(
-               image:NetworkImage('https://pbs.twimg.com/profile_images/994592419705274369/RLplF55e_400x400.jpg'),
+               image: AssetImage('homer.jpg'),
              ),
           ),
       ),
